@@ -3,7 +3,7 @@ package com.capgemini.employee_payroll.service;
 
 
 import com.capgemini.employee_payroll.entity.EmployeeEntity;
-import com.capgemini.employee_payroll.repositoey.EmployeeRepository;
+import com.capgemini.employee_payroll.repository.EmployeeRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

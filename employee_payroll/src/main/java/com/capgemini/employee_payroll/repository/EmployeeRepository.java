@@ -1,4 +1,4 @@
-package com.capgemini.employee_payroll.repositoey;
+package com.capgemini.employee_payroll.repository;
 
 
 import com.capgemini.employee_payroll.entity.EmployeeEntity;
